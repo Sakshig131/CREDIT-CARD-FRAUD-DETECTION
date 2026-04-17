@@ -109,6 +109,8 @@ Dataset used:
 * Hyperparameter tuning
 
 ---
+## 🔗 GitHub Repository
+[Click here to view the project](https://github.com/Sakshig131/MOVIE-GENRE-CLASSIFICATION)
 
 ## 👩‍💻 Author
 
